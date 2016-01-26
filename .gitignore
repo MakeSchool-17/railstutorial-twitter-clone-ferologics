@@ -1,4 +1,6 @@
 ra-*.html
+*.rbc
+capybara-*.html
 .rspec
 /log
 /tmp
